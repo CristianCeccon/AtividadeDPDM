@@ -9,7 +9,7 @@ void main(List<String> arguments) {
     __________ SISTEMA DE FICHA HOSPITALAR __________
     |                                                |
     |        1. Preencher ficha do paciente          |
-    |                                                |
+    |                                                | 
     |        3. Sair                                 |
     |________________________________________________|
     
